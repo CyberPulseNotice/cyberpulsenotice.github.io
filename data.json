@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-23T23:20:18.498452-03:00",
-  "total": 3,
+  "updated_at": "2026-05-23T23:42:58.181273-03:00",
+  "total": 4,
   "posts": [
+    {
+      "id": 217,
+      "title": "Falta de Governança em Automatização BPM",
+      "summary": "",
+      "severity": "informativo",
+      "created_at": "2026-05-24T02:20:07.545716",
+      "tags": []
+    },
     {
       "id": 215,
       "title": "Ataque de supply chain compromete Laravel Lang no GitHub",
