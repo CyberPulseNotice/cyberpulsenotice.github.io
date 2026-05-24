@@ -1,38 +1,41 @@
 {
-  "updated_at": "2026-05-23T23:42:58.181273-03:00",
-  "total": 4,
+  "updated_at": "2026-05-24T18:58:31.490522+00:00",
   "posts": [
     {
-      "id": 217,
+      "report_id": 217,
       "title": "Falta de Governança em Automatização BPM",
-      "summary": "",
       "severity": "informativo",
-      "created_at": "2026-05-24T02:20:07.545716",
-      "tags": []
+      "summary": "A automação pode ser mais perigosa do que você imagina? Empresas líderes estão adotando ferramentas de automação para acelerar processos, mas a falta de governança está gerando riscos inesperados. Sistemas",
+      "full_analysis": "A automação de processos promete revolucionar negócios. Mas o custo pode ser maior do que o ganho.  \n\nDurante anos, a eficiência foi o foco. Agora, a governança é a prioridade.  \n\nEmpresas como Unilever reduziram erros humanos em 40% com IA.  \n\nNa prática, isso significa que decisões críticas — desde contratações a estoques — estão sendo feitas por algoritmos que ninguém consegue explicar.  \n\nA falta de transparência já levou a falhas em cadeias de suprimento e até a discriminação em processos de recrutamento.  \n\nAgora, a questão não é se a automação é útil. É como garantir que ela não vire um buraco negro de riscos.  \n\nA governança de IA precisa ser integrada desde o início. Modularidade e explicações claras são a única defesa contra falhas que ninguém vê vindo.  \n\nA automação não é um fim. É um meio — mas apenas se controlada com a mesma rigorosa que se aplica a qualquer decisão humana.",
+      "instagram_url": "https://www.instagram.com/p/18083080184127231/",
+      "published_at": "2026-05-24T00:55:23.274594"
     },
     {
-      "id": 215,
-      "title": "Ataque de supply chain compromete Laravel Lang no GitHub",
-      "summary": "",
-      "severity": "informativo",
-      "created_at": "2026-05-23T20:55:42.040526",
-      "tags": []
-    },
-    {
-      "id": 214,
-      "title": "Equipamentos resistentes: segurança operacional e eficiência de custos",
-      "summary": "",
-      "severity": "informativo",
-      "created_at": "2026-05-23T19:18:49.246224",
-      "tags": []
-    },
-    {
-      "id": 213,
+      "report_id": 213,
       "title": "Ataques na Cadeia de Suprimentos de Software",
-      "summary": "",
       "severity": "informativo",
-      "created_at": "2026-05-23T19:17:39.409822",
-      "tags": []
+      "summary": "A maior brecha não está no código, mas nas dependências que você não vê. Um ataque recente expôs como a segurança da infraestrutura digital depende de proteger canais de distribuição, não apenas códigos finais. Durante anos, o foco foi em proteger sistemas internos. Mas agora, o alvo é a cadeia de s",
+      "full_analysis": "A maior brecha não está no código, mas nas dependências que você não vê. Um ataque recente expôs como a segurança da infraestrutura digital depende de proteger canais de distribuição, não apenas códigos finais. Durante anos, o foco foi em proteger sistemas internos. Mas agora, o alvo é a cadeia de suprimentos de software — e ela está sendo explorada com precisão cirúrgica.  \n\nCriminosos infiltraram oito pacotes do Packagist, um repositório de software para PHP, introduzindo um binário malicioso ativado por scripts `postinstall`. Esse tipo de ataque explora a falta de visibilidade em ecossistemas híbridos, como projetos que combinam PHP e JavaScript. O dado mais impactante? A Anthropic detectou 10.000 falhas críticas em dependências, usando IA para identificar riscos antes que sejam explorados.  \n\nNa prática, isso significa que empresas que dependem de bibliotecas abertas estão expostas a vulnerabilidades introduzidas em qualquer etapa da cadeia. Scripts de instalação em `package.json`, frequentemente ignorados, podem executar payloads maliciosos. A falta de controle sobre dependências externas, como o uso de `--allow-remote`, amplia a superfície de ataque.  \n\nO risco direto é claro: uma única brecha pode comprometer sistemas críticos, causando perdas financeiras e danos à reputação. Empresas que não monitoram dependências de forma abrangente ou restringem instalações a repositórios confiáveis estão em risco imediato.  \n\nA proteção começa com visibilidade total sobre dependências e políticas que priorizem a verificação humana. A cadeia de suprimentos é a nova fronteira — e quem não se prepara, paga o preço.",
+      "instagram_url": "https://www.instagram.com/p/18083034335127231/",
+      "published_at": "2026-05-23T18:59:26.017123"
+    },
+    {
+      "report_id": 214,
+      "title": "Equipamentos resistentes: segurança operacional e eficiência de custos",
+      "severity": "informativo",
+      "summary": "A falha de um tablet em uma obra pode parar uma equipe inteira. Mas o verdadeiro problema não está no equipamento — está no que ninguém vê. Durante anos, a durabilidade foi a prioridade. Mas agora, a resistência a condições extremas é uma exigência de segurança operacional. O Getac G140, com 32GB de",
+      "full_analysis": "A falha de um tablet em uma obra pode parar uma equipe inteira. Mas o verdadeiro problema não está no equipamento — está no que ninguém vê. Durante anos, a durabilidade foi a prioridade. Mas agora, a resistência a condições extremas é uma exigência de segurança operacional. O Getac G140, com 32GB de RAM e 2TB de armazenamento, suporta ambientes onde equipamentos comuns falham. Sua carcaça passa em testes MIL-STD-810H e é classificada IP66, protegendo contra poeira, água e impactos. Na prática, isso significa que operações em canteiros, usinas e logísticas podem continuar sem interrupções, mesmo sob chuva ou temperaturas extremas. Se a equipe escolher equipamentos com especificações inferiores, a perda de dados em operações críticas pode custar milhões em perdas operacionais e reparos. A resistência não é um detalhe — é a diferença entre parar ou avançar.",
+      "instagram_url": "https://www.instagram.com/p/18083034191127231/",
+      "published_at": "2026-05-23T18:58:17.802569"
+    },
+    {
+      "report_id": 215,
+      "title": "Ataque de supply chain compromete Laravel Lang no GitHub",
+      "severity": "informativo",
+      "summary": "A senha fraca já não é o maior risco. O perigo pode estar naquele sistema que ninguém atualizou.  \nDurante anos, a segurança focou em proteger fronteiras. Mas agora, o inimigo está dentro da porta.  \nAté 700 versões históricas de pacotes do Laravel Lang foram comprometidas por hackers.  \nNa prática,",
+      "full_analysis": "A senha fraca já não é o maior risco. O perigo pode estar naquele sistema que ninguém atualizou.  \nDurante anos, a segurança focou em proteger fronteiras. Mas agora, o inimigo está dentro da porta.  \nAté 700 versões históricas de pacotes do Laravel Lang foram comprometidas por hackers.  \nNa prática, isso significa que um único código malicioso, escondido em uma atualização aparentemente inofensiva, pode contaminar centenas de sistemas.  \nSe sua empresa usa bibliotecas de terceiros, pode estar instalando códigos comprometidos sem perceber.  \nA persistência do malware em versões antigas expõe sistemas por meses, sem alertas.  \nA proteção começa com visibilidade — e a capacidade de agir antes que um ataque se torne um incidente.",
+      "instagram_url": "https://www.instagram.com/p/18083034119127231/",
+      "published_at": "2026-05-23T18:57:18.001808"
     }
   ]
 }
